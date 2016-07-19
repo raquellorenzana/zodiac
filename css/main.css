@@ -1,0 +1,93 @@
+
+
+/* END NORMALIZE RESET */
+/**************************************************************************************************************/
+/* START OF MY CODE */
+
+body {
+	background-image: url("../img/stars.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.main_container {
+  margin: 20px;
+}
+
+/*Header*/
+header {
+	margin-bottom: 30px;
+}
+
+header img {
+  width: 100%;
+  height: auto;
+}
+
+
+/*Sign Info*/
+
+.sign_info {
+  font: bold 1.5em/1.5em 'Signika', sans-serif;
+  color: #fff;
+  background-color: black;
+  opacity: 0.7;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 2%;
+  padding: 20px;
+  text-align: justify;
+}
+
+.sign_info h3 {
+	font-size: 1.5em;
+}
+
+
+.sign_img {
+  margin-left: 50px;
+  width: 180px;
+  height: auto;
+  opacity: 0.8;
+  padding: 15px;
+  /*text-align: center;*/
+}
+
+
+/*User Sign Input*/
+
+.sign_input {
+	font-family: 'Signika', sans-serif;
+	color: #fff;
+	border-radius: 5px;
+}
+
+
+.sign_input h1,
+.sign_input form {
+	text-align: center;
+}
+
+
+.sign_input h1 {
+	margin-top: 0;
+	font-weight: bolder;
+}
+
+
+.sign_input input {
+  color: #000;
+	height: 25px;
+	margin: 0 5% 2% 5%;
+	text-align: center;
+	font-size: 1.3em;
+}
+
+button {
+	background-color: #929292;
+	font-weight: 800;
+	color: #fff;
+  border-radius: 5px;
+	font-size: 1.5em;
+	margin-bottom: 10%;
+}
